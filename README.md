@@ -18,13 +18,16 @@ I'm a passionate Backend Developer focused on building scalable, high-performanc
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/EF_Core-339933?style=for-the-badge&logo=nuget&logoColor=white)
 
-**Databases & Messaging:**
+**Databases, Messaging & Caching:**
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-**Architecture & Real-Time:**
+**Architecture, Testing & Infrastructure:**
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-FF9900?style=for-the-badge)
 ![SignalR](https://img.shields.io/badge/SignalR-0078D4?style=for-the-badge)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
