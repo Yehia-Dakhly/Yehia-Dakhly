@@ -1,33 +1,66 @@
-# Hi there, I'm Yehia Dakhly 👋
-![Profile Views](https://komarev.com/ghpvc/?username=Yehia-Dakhly&color=blue&style=flat-square&label=Profile+views)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=250&section=header&text=Yehia%20Dakhly&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer%20|%20System%20Architect&descAlignY=55&descAlign=50" width="100%" />
 
-### 👨‍💻 Software Engineer | Backend Developer (.NET) | System Architect
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Developer+(.NET);System+Architect;Building+High-Performance+Enterprise+Systems" alt="Typing SVG" />
+  </a>
+</div>
 
-I'm a passionate Backend Developer focused on building scalable, high-performance, and resilient systems. I love diving deep into System Design, Event-Driven Architecture, and writing Clean Code.
+### About Me
+I am a passionate Backend Engineer specializing in architecting and developing **scalable, high-performance, and resilient enterprise systems**. I thrive on solving complex engineering challenges, diving deep into System Design, Event-Driven Architecture, and writing Clean Code that withstands heavy traffic.
 
-- 🔭 I’m currently focused on building robust APIs with **.NET** & **Clean Architecture**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yehia-dakhly/)
+* 🏗️ **Architecture:** Designing robust APIs using **.NET** & **Clean Architecture**.
+* ⚡ **Performance:** Optimizing systems for **High Concurrency**.
+* 🛡️ **Reliability:** Building fault-tolerant systems with zero data loss using **RabbitMQ** & **Redis**.
+
+---
+
+### Tech Stack & Tools
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,rabbitmq,docker,git,github,visualstudio&theme=dark" alt="My Skills" />
+  </a>
+</div>
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Clean_Architecture-FF9900?style=for-the-badge&logo=awsorganizations&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/SignalR-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/K6_Testing-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### GitHub Stats
 
-**Languages & Frameworks:**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/EF_Core-339933?style=for-the-badge&logo=nuget&logoColor=white)
-
-**Databases, Messaging & Caching:**
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-**Architecture, Testing & Infrastructure:**
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-FF9900?style=for-the-badge)
-![SignalR](https://img.shields.io/badge/SignalR-0078D4?style=for-the-badge)
-![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yehia-Dakhly&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yehia-Dakhly&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Top Languages" height="195" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yehia-Dakhly&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
 
 ---
+
+### Let's Connect!
+
+<div align="center">
+  <a href="mailto:yehiamohameddakhly@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/yehia-dakhly/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/yahya.dakhly/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</div>
+<div align="center">
+  <br/>
+    <img src="https://komarev.com/ghpvc/?username=Yehia-Dakhly&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
