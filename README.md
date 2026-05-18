@@ -44,8 +44,8 @@ I am a passionate Backend Engineer specializing in architecting and developing *
 
 <div align="center">
 
-<img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yehia-Dakhly&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-<img height="195" src="https://streak-stats.demolab.com?user=Yehia-Dakhly&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yehia-Dakhly&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="165" src="https://streak-stats.demolab.com?user=Yehia-Dakhly&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
@@ -57,14 +57,21 @@ I am a passionate Backend Engineer specializing in architecting and developing *
   <a href="mailto:yehiamohameddakhly@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+
   <a href="https://www.linkedin.com/in/yehia-dakhly/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
+  <a href="https://play.google.com/store/apps/developer?id=Yehia+Mohamed+Dakhly" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Play-0F9D58?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
+  </a>
+
   <a href="https://www.facebook.com/yahya.dakhly/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </div>
+
 <div align="center">
   <br/>
-    <img src="https://komarev.com/ghpvc/?username=Yehia-Dakhly&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Yehia-Dakhly&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
