@@ -18,18 +18,24 @@ I am a passionate Backend Engineer specializing in architecting and developing *
 ### Tech Stack & Tools
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,rabbitmq,docker,git,github,visualstudio&theme=dark" alt="My Skills" />
-  </a>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,rabbitmq,docker,git,github,visualstudio,postman&theme=dark" alt="My Skills" />
+</a>
 </div>
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Clean_Architecture-FF9900?style=for-the-badge&logo=awsorganizations&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/SignalR-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/K6_Testing-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
+<img src="https://img.shields.io/badge/Clean_Architecture-FF9900?style=for-the-badge&logo=awsorganizations&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<img src="https://img.shields.io/badge/SignalR-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Apidog-5C2D91?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
+<img src="https://img.shields.io/badge/K6_Testing-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
 </div>
 
 ---
@@ -37,12 +43,10 @@ I am a passionate Backend Engineer specializing in architecting and developing *
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yehia-Dakhly&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="GitHub Stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yehia-Dakhly&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Top Languages" height="195" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yehia-Dakhly&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+<img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yehia-Dakhly&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="195" src="https://streak-stats.demolab.com?user=Yehia-Dakhly&theme=tokyonight&hide_border=true&background=0D1117"/>
+
 </div>
 
 ---
